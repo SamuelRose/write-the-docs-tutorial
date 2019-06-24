@@ -3,8 +3,6 @@ layout: default
 title: Documentation
 ---
 
-Hello, world.
-
 # My GitHub Pages site
 
 This page was created from the tutorial in the [mapzen/write-the-docs-tutorial repository](https://github.com/mapzen/write-the-docs-tutorial).
@@ -22,3 +20,5 @@ Follow these general instructions to make a website with _GitHub Pages_.
 7. Open browser to the page.
 
 Get more details in the [GitHub Pages documentation](https://help.github.com/categories/github-pages-basics/).
+
+![some text](https://i.imgur.com/jYMulAW.jpg?1)
